@@ -1,0 +1,80 @@
+{
+    "_id" : ObjectId("5f58c00f56e4ecbcf521b8ea"),
+    "name" : "Business-1",
+    "category" : "Sport",
+    "manager" : "Stela smith",
+    "licence" : "MIT",
+    "lastUpdate" : 1596915000,
+    "insertTime" : 1596915000,
+    "jobListObject" : {
+        "job1" : {
+            "siteName" : "https://academy.wwfindia.org/",
+            "active" : true
+        },
+        "job2" : {
+            "siteName" : "https://academy.wwfindia.org/",
+            "active" : false
+        }
+    },
+    "active" : false
+},
+{
+    "_id" : ObjectId("5f58c00f56e4ecbcf521b8ec"),
+    "name" : "Business-2",
+    "category" : "Computer dep.",
+    "manager" : "Adam Pit",
+    "licence" : "Trade",
+    "lastUpdate" : 1596281308,
+    "insertTime" : 1594553308,
+    "jobListObject" : {
+        "job1" : {
+            "siteName" : "https://test.org/",
+            "active" : true
+        },
+        "job2" : {
+            "siteName" : "https://academy.wwfindia.org/",
+            "active" : false
+        }
+    },
+    "active" : false
+},
+{
+    "_id" : ObjectId("5f58c00f56e4ecbcf521b8fa"),
+    "name" : "Business-16",
+    "category" : "Data Analytics",
+    "manager" : "John Doe",
+    "licence" : "MIT",
+    "lastUpdate" : 1594294108,
+    "insertTime" : 1594153308,
+    "jobListObject" : {
+        "job-test1" : {
+            "siteName" : "https://academy.wwfindia.org/",
+            "active" : true
+        },
+        "job-test2" : {
+            "siteName" : "https://mhf.org/",
+            "active" : true
+        }
+    },
+    "active" : false
+},
+{
+    "_id" : ObjectId("5f58c00f56e4ecbcf521b8f0"),
+    "name" : "Business-6",
+    "category" : "Data Analytics",
+    "manager" : "Stela smith",
+    "licence" : "Trade",
+    "lastUpdate" : 1596281308,
+    "insertTime" : 1594553308,
+    "active" : false
+},
+{
+    "_id" : ObjectId("5f58c00f56e4ecbcf521b8f8"),
+    "name" : "Business-14",
+    "category" : "Physics",
+    "manager" : "Adam Pit",
+    "licence" : "Trade",
+    "lastUpdate" : 1596281308,
+    "insertTime" : 1594553308,
+    "active" : false
+}
